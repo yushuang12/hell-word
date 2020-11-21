@@ -1,2 +1,2 @@
-# hell0-word
+# hello-word
 用于记录编码
